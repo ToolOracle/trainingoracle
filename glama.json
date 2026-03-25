@@ -1,0 +1,1 @@
+{"name": "TrainingOracle", "description": "DORA Art. 13-14 awareness training \u2014 8 MCP tools for training plans, competency tracking", "category": "compliance", "tags": ["dora", "training", "awareness", "compliance"], "tools": 8, "transport": "streamable-http", "endpoint": "https://tooloracle.io/training/mcp/"}
