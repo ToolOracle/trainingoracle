@@ -1,1 +1,8 @@
-{"name": "TrainingOracle", "description": "DORA Art. 13-14 awareness training \u2014 8 MCP tools for training plans, competency tracking", "category": "compliance", "tags": ["dora", "training", "awareness", "compliance"], "tools": 8, "transport": "streamable-http", "endpoint": "https://tooloracle.io/training/mcp/"}
+{
+  "name": "trainingOracle",
+  "description": "DORA Art. 13/14 Training \u2014 8 MCP tools for awareness programs",
+  "repository": "https://github.com/ToolOracle/trainingoracle",
+  "endpoint": "https://tooloracle.io/training/mcp/",
+  "tools": 8,
+  "license": "MIT"
+}
