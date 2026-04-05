@@ -1,0 +1,5 @@
+name: TrainingOracle
+description: DORA Training & awareness — 10 tools
+endpoint: https://tooloracle.io/training/mcp/
+transport: streamable-http
+license: MIT
